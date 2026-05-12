@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" src="https://images5.alphacoders.com/112/1123078.jpg" alt="Jaya-pic" height="150" style="border-radius: 20px;">
+<!-- <img align="right" src="https://images5.alphacoders.com/112/1123078.jpg" alt="Jaya-pic" height="150" style="border-radius: 20px;"> -->
 
 ### 🛠 Tech Stack
 <div style="display: block;">
